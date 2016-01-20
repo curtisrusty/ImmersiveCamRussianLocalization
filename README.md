@@ -1,7 +1,7 @@
 # ImmersiveCamRussianLocalization
-Russian w3strings for Immersive Cam mod
+Russian w3strings for Immersive Cam by KCS
 
 mod page - http://www.nexusmods.com/witcher3/mods/689/
 
 INSTALLATIOM
-1. Copy ru.w3strings file to content folder in modImmersiveCam folder.
+Unpack ru.w3strings and copy the file to your mods\modImmersiveCam\content folder. Overwrite the existing ru.w3strings file.
